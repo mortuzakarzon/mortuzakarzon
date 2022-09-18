@@ -1,4 +1,4 @@
-### Hola, Waving hand animated gif I'm Mortuza Karzon!
+### Hola,  I'm Mortuza Karzon!
 
 
 Here are some ideas to get you started:
