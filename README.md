@@ -1,7 +1,7 @@
-### Hola, 👋 I'm Mortuza Karzon!
+# Hola, I'm Mortuza Karzon!
 
 # 💫 About Me:
-- 😄 Pronouns: He/His<br>- 🔭 I’m currently working on DocMent-MERN stack doctor appointment app.<br>- 🌱 I’m currently learning vue.js.<br>- 👯 I’m looking to collaborate on Youtube.<br>- 🤔 I’m looking for help with Documentation.<br>- 💬 Ask me about "MERN STACK" or any other tech related stuffs.<br>- 📫 How to reach me: Twitter -@karzonku<br>- ⚡ Fun fact: Bonsai Lover!
+<br>- 😄 Pronouns: He/His<br>- 🔭 I’m currently working on DocMent-MERN stack doctor appointment app.<br>- 🌱 I’m currently learning vue.js.<br>- 👯 I’m looking to collaborate on Youtube.<br>- 🤔 I’m looking for help with Documentation.<br>- 💬 Ask me about "MERN STACK" or any other tech related stuffs.<br>- 📫 How to reach me: Twitter -@karzonku<br>- ⚡ Fun fact: Bonsai Lover!
 
 
 ## 🌐 Socials:
@@ -18,4 +18,4 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=mortuzakarzon&icon=2&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=mortuzakarzon&icon=1&color=1)](https://visitcount.itsvg.in)
