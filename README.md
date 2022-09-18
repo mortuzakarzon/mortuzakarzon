@@ -1,8 +1,6 @@
 ### Hola,  I'm Mortuza Karzon!
 
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on DocMent-MERN stack doctor appointment app.
 - 🌱 I’m currently learning vue.js.
 - 👯 I’m looking to collaborate on Youtube.
