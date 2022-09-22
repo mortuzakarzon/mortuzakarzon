@@ -1,13 +1,12 @@
 # Hola,👋 I'm Mortuza Karzon!
 
+# 💫 About Me:
+<br>- 😄 Pronouns: He/His<br>- 🔭 I’m currently working on DocMent-MERN stack doctor appointment app.<br>- 🌱 I’m currently learning vue.js.<br>- 👯 I’m looking to collaborate on Youtube.<br>- 🤔 I’m looking for help with Documentation.<br>- 💬 Ask me about "MERN STACK" or any other tech related stuffs.<br>- 📫 How to reach me: Twitter -@karzonku<br>- ⚡ Fun fact: Bonsai Lover!
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=mortuzakarzon&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mortuzakarzon&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mortuzakarzon&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-# 💫 About Me:
-<br>- 😄 Pronouns: He/His<br>- 🔭 I’m currently working on DocMent-MERN stack doctor appointment app.<br>- 🌱 I’m currently learning vue.js.<br>- 👯 I’m looking to collaborate on Youtube.<br>- 🤔 I’m looking for help with Documentation.<br>- 💬 Ask me about "MERN STACK" or any other tech related stuffs.<br>- 📫 How to reach me: Twitter -@karzonku<br>- ⚡ Fun fact: Bonsai Lover!
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mortuza-karzon) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@mortuzakarzon) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Mortuza-Karzon) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/8055165) 
